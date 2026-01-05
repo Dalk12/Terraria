@@ -1,0 +1,16 @@
+{
+  "ShopFilters": {
+    "Weapons": true,
+    "Tools": true,
+    "Armor": true,
+    "Vanity": true,
+    "Accessories": true,
+    "Pets": true,
+    "Mounts": true,
+    "Potions": true,
+    "Consumables": true,
+    "Placeables": true,
+    "Miscellaneous": true,
+    "Buyback": true
+  }
+}
