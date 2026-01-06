@@ -551,7 +551,6 @@
       "Jump": ["W"],
       "Throw": ["T"],
       "Inventory": ["Escape"],
-      "Grapple": ["E"],
       "SmartSelect": ["LeftShift"],
       "SmartCursor": ["LeftControl"],
       "QuickMount": ["R"],
@@ -581,7 +580,12 @@
       "Loadout3": ["F3"],
       "ToggleCameraMode": ["F4"],
       "ToggleCreativeMenu": ["C"],
-      "CalamityMod/RageMode": ["G"]
+      "CalamityMod/AdrenalineMode": ["B"],
+      "CalamityMod/RageMode": ["V"],
+      "FargowiltasSouls/ActiveSkill1": ["Q"],
+      "FargowiltasSouls/ActiveSkill2": ["E"],
+      "FargowiltasSouls/ActiveSkill3": ["Z"],
+      "FargowiltasSouls/ActiveSkillMenu": ["N"]
     },
     "Gamepad": 
     {
