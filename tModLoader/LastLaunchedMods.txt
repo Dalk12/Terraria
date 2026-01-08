@@ -1,7 +1,7 @@
 BetterChests 10.1.1
 CalamityAmmo 1.2.1.6
 CalamityAmmunitions 0.2.1
-CalamityEntropy 1.889
+CalamityEntropy 1.891
 CalamityFlamethrowers 3.3
 CalamityHunt 1.1.7
 CalamityMod 2.0.7.2
