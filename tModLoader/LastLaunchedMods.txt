@@ -1,7 +1,7 @@
 BetterChests 10.1.1
 CalamityAmmo 1.2.1.6
 CalamityAmmunitions 0.2.1
-CalamityEntropy 1.891
+CalamityEntropy 1.894
 CalamityFlamethrowers 3.3
 CalamityHunt 1.1.7
 CalamityMod 2.0.7.2
@@ -13,7 +13,7 @@ CatalystMod 1.1.3
 CatalystNoTierLock 1.1.2
 ColoredCalRelics 1.0.8
 ColoredDamageTypes 1.8.5
-CompatChecker 0.1.4.3
+CompatChecker 0.1.4.4
 ConciseModList 1.4.3.1
 DotaTwo 1.31
 ExoMechsAltTheme 2.1
